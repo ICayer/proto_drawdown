@@ -1,0 +1,84 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src = 'd3.js'></script>
+    <script src = 'https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js'></script>
+
+
+    <title>Prototype scrollytelling</title>
+</head>
+
+
+<body>
+    <div id="tooltip"></div>
+    <div id="graphic">
+        <div id="sections">
+            <section class="step">
+                <div class="title"></div>
+                <br><br>
+                <h1>Quelle taille de cohorte est idéale pour réduire massivement les émissions de CO2?</h1>
+                <p>Conçu par: <a href = 'https://www.linkedin.com/in/isabelcayer/' target="_blank">Isabel Cayer, L'Agora (UQAR) 2024</a></p>
+                <p>(Note: Si la visualisation de données de cadre pas dans votre écran, utilisez ctrl + - / Cmd + -.) </p>
+                <p>
+                    Ce prototype fonctionnel a été développé à partir de l'article scientifique du docteur Avit Bhowmik intituté : <i>Power of 10: seeking ‘sweet spots’ for rapid
+                    climate and sustainability actions between individual and global scales.</i><br><br>
+                    
+                    Source: <a href = "https://www.researchgate.net/publication/342368448_Powers_of_10_Seeking_'sweet_spots'_for_rapid_climate_and_sustainability_actions_between_individual_and_global_scales" target="_blank">Avit K Bhowmik et al 2020 Environ. Res. Lett. 15 094011</a><br><br>
+
+                (Les données ont été extraites et préparées à partir de l'article scientifique).
+                </p>
+                
+            </section>
+            <section class="step">
+                <p>
+                    <h2>Partie 1 : Les solutions climatiques</h2>
+                    <h3>Présentation des solutions de réductions de dioxyde de carbone (C0<sub>2</sub>).</h3>
+                    Cette section présente les données de 72 solutions climatiques pouvant entrainer des réductions de CO<sub>2</sub>. <br><br>
+                    Ces données sont visualisées dans un format de graphique à bulles emballées (<i>Packed Bubble Chart</i>).<br><br>
+                    La superficie de chaque bulle représente la valeur de la réduction de CO<sub>2</sub> projetée d'ici 2050 (mesurée en Gtonnes).<br><br>
+                </p>
+                <!--La légende présentant la superficie des bulles -->
+                <svg id = 'legend' width = '400px' height = '500px'></svg>
+                <br><br><br><br><br><br><br><br><br><br>
+            </section>
+            <section class = 'step'>
+                <p>
+                    <h2>Partie 2 : Les secteurs d'application</h2>
+                    <h3>Classification des solutions selon les secteurs impliqués</sub>.</h3>
+                    Chaque solution est classée dans un des 7 secteurs (voir la légende).<br><br>
+                    Pour un secteur donné, par exemple le transport, il y a des solutions qui touchent davantage les personnes (ex.: choix du moyen de transport), alors que d'autres solutions comme le transport ferroviaire demande des actions au niveau de la province ou du pays.<br><br>
+                </p>
+                <svg id = 'legend2' width = '400px' height = '450px'></svg><br><br>
+            </section>
+            <section class="step">
+                <p>
+                    <h2>Partie 3 : Le sweet spot</h2>
+                    <h3>Identification des solutions climatiques accessibles aux communautés</h3>
+                    Le sweet spot représente la cohorte (en nombre de personnes dans une population donnée) où il est le plus probable d'obtenir les meilleurs résultats en terme de réduction du CO<sub>2</sub>.<br><br>
+                    Les cohortes sont gradées de 10<sup>0</sup> (1 individu), à 10<sup>10</sup> (la population mondiale prévue en 2050).<br><br>
+                    La cohorte idéale se situe à 10<sup>4</sup> (10 000 personnes), ce qui équivaut à la communauté d'une petite municipalité (ex. : Matane a 14 000 habitants).<br><br>
+                </p>
+                
+            </section>
+            <section class="step">
+                <h1>Fin du prototype</h1>
+                <p>
+                    Le développement de ce prototype a été inspiré par le scrollytelling: <a href = 'https://cuthchow.github.io/college-majors-visualisation/' target="_blank"><i>What is the best (undergraduate) college major in the United States?</i> de Cuthbert Chow</a>.
+                    Merci aussi a Jim Vallandingham pour son artible: <a href = 'https://vallandingham.me/scroller.html' target="_blank"><i>So You Want to Build A Scroller</i></a>.
+                    <br><br>
+                <span></span><span></span><span></span>                
+            </section>
+           
+
+        </div>
+        <div id="vis">
+
+        </div>
+    </div>
+    <script src = 'scroller.js'></script>
+    <script src = 'sections.js'></script>
+
+</body>
+</html>

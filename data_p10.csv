@@ -1,0 +1,73 @@
+Rank,Sweet_Spot,Climate_solutions,Solutions_climatiques,Secteurs,Intervalle_P10,PI0_min,P10_max,Mediane_P10,HistCol,Reduction_CO2,Benefice_net
+1,Non,Wind_Turbines_(LandandOcean),Éolienne,Énergie,5–7,5,7,6.0,6,98.7,5901.8
+2,Oui,Refrigerant_Management,Gestion des régrigérants,Matériau,2–6,2,6,4.0,4,89.74,NA
+3,Oui,Reduced_Food_Waste,Réduction du gaspillage alimentaire,Bioalimentaire,0–4,0,4,2.0,2,70.53,NA
+4,Non,Plant-Rich_Diet,Diète végétarienne,Bioalimentaire,0–1,0,1,0.5,0,66.11,NA
+5,Oui,Tropical_Forests,Forêt tropicale,Sol,3–8,3,8,5.5,5,61.23,NA
+6,Oui,Family_Planning,Gestion des naissances,Femmes,0–4,0,4,2.0,2,59.6,NA
+7,Oui,Educating_Girls,Éducation des filles,Femmes,0–4,0,4,2.0,2,59.6,NA
+8,Oui,Solar_Farms,Ferme solaire,Énergie,4–7,4,7,5.5,4,36.9,5104.44
+9,Oui,Silvopasture,sylvopastoralisme,Bioalimentaire,1–8,1,8,4.5,4,31.19,657.78
+10,Oui,Rooftop_Solar,Toit solaire,Énergie,1–5,1,5,3.0,3,24.6,3004.49
+11,Oui,Regenerative_Agriculture,Agriculture régénératrice?,Bioalimentaire,1–8,1,8,4.5,4,23.15,1870.88
+12,Oui,Temperate_Forests,Forêt tempérée,Sol,3–8,3,8,5.5,5,22.61,NA
+13,Oui,Peatlands,Tourbière,Sol,3–8,3,8,5.5,5,21.57,NA
+14,Oui,Tropical_Staple_Trees,Arbre tropical fruitier?,Bioalimentaire,1–8,1,8,4.5,4,20.19,506.9
+15,Oui,Afforestation,Boisement,Sol,2–4,2,4,3.0,3,18.06,968.41
+16,Oui,Conservation_Agriculture,Agriculture de conservation?,Bioalimentaire,1–8,1,8,4.5,4,17.35,2081.54
+17,Oui,Tree_Intercropping,Sylviculture intercalaire?,Bioalimentaire,1–8,1,8,4.5,4,17.2,-124.89
+18,Non,Geothermal,Géothermie,Énergie,5–7,5,7,6.0,6,16.6,1179.82
+19,Oui,Managed_Grazing,Gestion du pâturage,Bioalimentaire,1–8,1,8,4.5,4,16.34,684.79
+20,Non,Nuclear,Nucléaire,Énergie,6–8,6,8,7.0,7,16.09,1712.52
+21,Non,Clean_Cookstoves,Cuisinière propre,Bioalimentaire,1–2,1,2,1.5,1,15.81,94.12
+22,Oui,Improved_Rice_Cultivation_and_SystemofRice_Intensification,Rizière durable?,Bioalimentaire,1–8,1,8,4.5,4,14.47,NA
+23,Oui,Farmland_Restoration,Restauration des terres agricoles,Bioalimentaire,1–8,1,8,4.5,4,14.08,1270.23
+24,Non,Concentrated_Solar,Centrale solaire,Énergie,5–7,5,7,6.0,6,10.9,-905.5
+25,Oui,LED_Lighting,Éclairage LED,Urbanisme,1–6,1,6,3.5,3,12.85,2700.7
+26,Non,Electric_Vehicles,Véhicule électrique,Transport,0–1,0,1,0.5,0,10.8,-4421.63
+27,Oui,Methane_Digesters(SmallandLarge),Digesteur de biogaz?,Énergie,1–7,1,7,4.0,4,10.3,-53.78
+28,Oui,District_Heating,Chauffage urbain,Urbanisme,4–6,4,6,5.0,5,9.38,3086.43
+29,Oui,Multistrata_Agro-forestry,Agroforesterie multistrates,Bioalimentaire,1–8,1,8,4.5,4,9.28,682.99
+30,Non,Wave_and_Tidal,Vague et marée,Énergie,5–7,5,7,6.0,6,9.2,-1416.54
+31,Oui,Insulation,Isolation,Urbanisme,1–5,1,5,3.0,3,8.27,-1142.59
+32,Oui,Ships,Navire,Transport,3–4,3,4,3.5,3,7.87,-491.55
+33,Oui,Biomass,Biomasse,Énergie,3–7,3,7,5.0,5,7.5,117.04
+34,Oui,Bamboo,Bambou,Sol,2–4,2,4,3.0,3,7.22,216.29
+35,Oui,Alternative_Cement,Ciment alternatif,Matériau,4–5,4,5,4.5,4,6.69,NA
+36,Oui,Mass_Transit,Transport en commun,Transport,4–6,4,6,5.0,5,6.57,NA
+37,Oui,Forest_Protection,Protection des forêts,Sol,3–8,3,8,5.5,5,6.2,NA
+38,Oui,Trucks,Camion,Transport,2–5,2,5,3.5,3,6.18,2238.09
+39,Oui,Solar_Water,Chauffe-eau solaire?,Énergie,1–4,1,4,2.5,2,6.08,770.66
+40,Oui,Indigenous_Peoples’Land_Management,Gestion des territoires des nations autochtones,Sol,3–8,3,8,5.5,5,5.25,NA
+41,Oui,Heat_Pumps,Pompe à chaleur,Urbanisme,1–5,1,5,3.0,3,5.2,1427.95
+42,Oui,Airplanes(Improvements),Avion,Transport,3–5,3,5,4.0,4,5.05,2525.38
+43,Oui,Building_Automation,Domotique,Urbanisme,2–5,2,5,3.5,3,4.62,812.43
+44,Non,Water_Saving_Home,Gestion de l'eau domestique,Matériau,1–2,1,2,1.5,1,4.61,1727.68
+45,Oui,Bioplastic,Bioplastique,Matériau,2–4,2,4,3.0,3,4.3,NA
+46,Oui,In-Stream_Hydro,Hydroélectricité,Énergie,3–5,3,5,4.0,4,4.00,365.83
+47,Non,"Cars(Hybrids,etc)",Voiture,Transport,0–1,0,1,0.5,0,4.00,2360.41
+48,Oui,Cogeneration,Cogénération de la biomasse?,Énergie,2–4,2,4,3.0,3,3.97,287.68
+49,Oui,Perennial_Biomass,Biomasse pérenne,Sol,1–4,1,4,2.5,2,3.33,NA
+50,Oui,Coastal_Wetlands,Zone humide côtière,Sol,3–8,3,8,5.5,5,3.19,NA
+51,Oui,Walkable_Cities,Ville piétonière,Urbanisme,3–6,3,6,4.5,4,2.92,NA
+52,Oui,Household_Recycling,Recyclage domestique,Matériau,3–6,3,6,4.5,4,2.77,-295.79
+53,Oui,Industrial_Recycling,Recyclage industriel,Matériau,3–6,3,6,4.5,4,2.77,-295.79
+54,Non,Smart_Thermostats,Thermosat intelligent,Urbanisme,1–2,1,2,1.5,1,2.62,714.26
+55,Oui,Land_fill_Methane,Méthane (fracturation?),Urbanisme,4–6,4,6,5.0,5,2.5,69.39
+56,Oui,Bike_Infrastructure,Circuit cycliste,Urbanisme,4–6,4,6,5.0,5,2.31,2427.44
+57,Oui,Composting,Compostage,Bioalimentaire,3–6,3,6,4.5,4,2.28,2.9
+58,Oui,Smart_Glass,Verre intelligent,Urbanisme,2–4,2,4,3.0,3,2.19,-607.2
+59,Non,Women_Small_holders,Micro-entrepreuse,Femmes,1–2,1,2,1.5,1,2.06,NA
+60,Oui,Telepresence,Téléprésence,Transport,1–4,1,4,2.5,2,1.99,1182.87
+61,Oui,Nutrient_Management,Gestion des nutriments,Bioalimentaire,1–8,1,8,4.5,4,1.81,NA
+62,Oui,High-Speed_Rail,Train à grande vitesse,Transport,5–8,5,8,6.5,6,1.52,-739.19
+63,Oui,Farmland_Irrigation,Irrigation des terres agricoles,Bioalimentaire,1–8,1,8,4.5,4,1.33,213.51
+64,Non,Waste-to-Energy,Valorisation des déchets,Énergie,5–7,5,7,6.0,6,1.1,-16.18
+65,Non,Electric_Bikes,Vélo électrique,Transport,0–1,0,1,0.5,0,0.96,119.32
+66,Oui,Recycled_Paper,Recyclage du papier,Matériau,1–4,1,4,2.5,2,0.9,NA
+67,Oui,Water_Distribution,Gestion des eaux,Urbanisme,3–7,3,7,5.0,5,0.87,765.74
+68,Oui,Biochar,Biomasse carbonisée,Bioalimentaire,2–4,2,4,3.0,3,0.81,NA
+69,Oui,Green_Roofs,Toit vert,Urbanisme,1–5,1,5,3.0,3,0.77,-404.83
+70,Oui,Trains,Train,Transport,3–5,3,5,4.0,4,0.52,-494.78
+71,Non,Ridesharing,Covoiturage,Transport,0-1,0,1,0.5,0,0.32,NA
+72,Oui,Micro_Wind,Petite éolienne,Énergie,1–4,1,4,2.5,2,0.2,-16.22
